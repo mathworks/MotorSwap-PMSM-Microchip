@@ -1,14 +1,14 @@
 # Motor Swap using Microchip MCSMCLV48V300W
 Run any Permanent Magnet Synchronous motor using a single model. 
 
-This example implements the motor swap of Permanent Magnet Synchronous Motor (PMSM) using Microchip MCS MCLV-48V-300W Development Board and dsPIC33AK128MC106 Motor Control Dual In-line Module (DIM). Using this example, any 3-phase PMSM up to 300W can be run in closed loop speed, without the need to rebuild and update the software in the microcontroller.
+This example implements the motor swap of Permanent Magnet Synchronous Motor (PMSM) using Microchip MCS MCLV-48V-300W Development Board and dsPIC33AK128MC106 Motor Control Dual In-line Module (DIM). Using this example, any 3-phase PMSM up to 300W can be run in closed-loop speed control, without the need to rebuild and flash the software in the microcontroller.
 
 [![View Motor Swap using Microchip MCSMCLV48V300W on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://in.mathworks.com/matlabcentral/fileexchange/180617)
 
 ## Setup 
 
 1. Download the repository and extract the contents.
-2. For instructions to use these demos, see the enclosed pdf document.
+2. For instructions to use these demos, see the enclosed PDF document.
 
 
 ### [MathWorks®  Products](https://www.mathworks.com)
@@ -29,7 +29,7 @@ Requires MATLAB® release R2021b or newer
 
 
 ## Getting Started 
-For detailed instructions to use these demos, see the enclosed pdf documents.
+For detailed instructions to use these demos, see the enclosed PDF documents.
 
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/Motor-Control-Microchip)
 
